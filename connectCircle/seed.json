@@ -1,0 +1,50 @@
+{
+  "users": {
+    "uid_demo_alice": {
+      "uid": "uid_demo_alice",
+      "displayName": "Alice",
+      "email": "alice@example.com",
+      "lastSeen": 1690000000000
+    },
+    "uid_demo_bob": {
+      "uid": "uid_demo_bob",
+      "displayName": "Bob",
+      "email": "bob@example.com",
+      "lastSeen": 1690000000000
+    },
+    "uid_demo_ali": {
+      "uid": "uid_demo_ali",
+      "displayName": "Ali",
+      "email": "ali@example.com",
+      "lastSeen": 1690000000000
+    }
+  },
+  "groups": {
+    "group_general": {
+      "name": "General",
+      "description": "General chat for everyone",
+      "createdBy": "uid_demo_alice"
+    },
+    "group_tech": {
+      "name": "Tech",
+      "description": "Talk about dev & tools",
+      "createdBy": "uid_demo_bob"
+    }
+  },
+  "messages": {
+    "group_general": {
+      "m1": {
+        "text": "Welcome to General!",
+        "senderId": "uid_demo_alice",
+        "senderName": "Alice",
+        "timestamp": 1690000000000
+      },
+      "m2": {
+        "text": "Hi!",
+        "senderId": "uid_demo_ali",
+        "senderName": "Ali",
+        "timestamp": 1690000000000
+      }
+    }
+  }
+}
