@@ -88,7 +88,7 @@
               rows="1"
               class="w-full px-3 sm:px-4 py-3 pr-12 sm:pr-16 rounded-2xl bg-white/80 dark:bg-gray-800/80 border border-white/40 dark:border-gray-600/40 backdrop-blur-sm text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500/50 transition-all duration-300 disabled:opacity-50 resize-none  shadow-lg"
               placeholder="Type your message..."
-              style="min-height: 48px; max-height: 100px;"
+              style="min-height: 48px; max-height: 50px;"
             />
             
             <!-- Send button -->
